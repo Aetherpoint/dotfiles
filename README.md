@@ -9,8 +9,9 @@ The installation step requires the [XCode Command Line
 Tools](https://developer.apple.com/downloads) and may overwrite existing
 dotfiles in your HOME and `.vim` directories.
 
+
 ```bash
-$ bash -c "$(curl -fsSL raw.github.com/necolas/dotfiles/master/bin/dotfiles)"
+$ bash -c "$(curl -fsSL raw.github.com/Aetherpoint/dotfiles/master/bin/dotfiles)"
 ```
 
 
