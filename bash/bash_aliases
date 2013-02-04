@@ -55,5 +55,5 @@ alias hidedeskicons="defaults write com.apple.finder CreateDesktop -bool false &
 
 # Custom Git aliases
 alias g="git"
-alias gc="git commit -m "
+# alias gc="git commit -m "
 alias aa="git add -A"
