@@ -45,7 +45,7 @@ defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad TrackpadThreeF
 # Dock: enable the 2D Dock
 defaults write com.apple.dock no-glass -bool true
 
-# Dock: position the Dock on the left
+# Dock: position the Dock on the bottom
 defaults write com.apple.dock orientation bottom
 
 # Dock: set the icon size of Dock items to 30 pixels
