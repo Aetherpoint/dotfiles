@@ -65,5 +65,6 @@ alias cl="git clone"
 alias gpsh="git push"
 alias gpll="git pull"
 alias resetall="git reset --hard HEAD"
+alias simpleserver="alias st='git status -s"
 
 # alias gls="ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ CresetsCblue\\ [%cn]" --decorate"
