@@ -68,6 +68,6 @@ alias resetall="git reset --hard HEAD"
 
 
 # Custom Git aliases
-alias simpleserver="alias st='git status -s"
+alias simpleserv="python -m SimpleHTTPServer"
 
 # alias gls="ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ CresetsCblue\\ [%cn]" --decorate"
