@@ -66,8 +66,10 @@ alias gpsh="git push"
 alias gpll="git pull"
 alias resetall="git reset --hard HEAD"
 
-
 # Custom Git aliases
 alias simpleserv="python -m SimpleHTTPServer"
+
+# Custom blog aliases (delete this)
+alias pushblog="s3_website push --site compiled"
 
 # alias gls="ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ CresetsCblue\\ [%cn]" --decorate"
