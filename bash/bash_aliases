@@ -71,5 +71,8 @@ alias simpleserv="python -m SimpleHTTPServer"
 
 # Custom blog aliases (delete this)
 alias pushblog="s3_website push --site compiled"
+alias prevblog="bundle exec ruhoh server 9292"
+
+alias v="mvim"
 
 # alias gls="ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ CresetsCblue\\ [%cn]" --decorate"
