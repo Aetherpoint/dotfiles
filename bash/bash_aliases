@@ -67,7 +67,12 @@ alias gpll="git pull"
 alias resetall="git reset --hard HEAD"
 
 # Custom Git aliases
-alias simpleserv="python -m SimpleHTTPServer"
+alias pyserv="python -m SimpleHTTPServer"
+
+alias address="ifconfig | grep inet | grep -v inet6 | grep -v 127.0.0.1 | awk '{print $2}'"
+
+#Apache
+alias rserv="sudo apachectl restart"
 
 # Custom blog aliases (delete this)
 alias pushblog="s3_website push --site compiled"
